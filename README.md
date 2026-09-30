@@ -155,8 +155,7 @@ the game simulation engine.
 The game simulation engine uses player-specific skill profiles, projected
 plate appearances, and game-specific inputs to simulate complete MLB games.
 The engine incorporates hitter-pitcher matchup adjustments, starting pitcher
-workload, bullpen transitions, and team bullpen statistics to model player
-outcomes across multiple innings.
+workload, bullpen transitions, and team bullpen statistics to model game events across multiple innings.
 
 The simulator models hitter outcomes including hits, total bases, strikeouts,
 walks, and home runs, as well as pitcher outcomes including innings pitched,
